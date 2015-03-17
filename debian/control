@@ -1,0 +1,12 @@
+Source: ros-jade-pcl-conversions
+Section: misc
+Priority: extra
+Maintainer: Paul Bovbel <paul@bovbel.com>
+Build-Depends: debhelper (>= 9.0.0), libpcl-1.7-all-dev, ros-jade-catkin, ros-jade-cmake-modules, ros-jade-pcl-msgs, ros-jade-roscpp, ros-jade-sensor-msgs, ros-jade-std-msgs
+Homepage: http://wiki.ros.org/pcl_conversions
+Standards-Version: 3.9.2
+
+Package: ros-jade-pcl-conversions
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libpcl-1.7-all, libpcl-1.7-all-dev, ros-jade-pcl-msgs, ros-jade-roscpp, ros-jade-sensor-msgs, ros-jade-std-msgs
+Description: Provides conversions from PCL data types and ROS message types
