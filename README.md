@@ -1,3 +1,24 @@
+## pcl_conversions (indigo) - 0.2.1-0
+
+The packages in the `pcl_conversions` repository were released into the `indigo` distro by running `/usr/bin/bloom-release -r indigo -t indigo pcl_conversions` on `Mon, 08 Jun 2015 13:04:36 -0000`
+
+The `pcl_conversions` package was released.
+
+Version of package(s) in repository `pcl_conversions`:
+- upstream repository: https://github.com/ros-perception/pcl_conversions.git
+- release repository: https://github.com/ros-gbp/pcl_conversions-release.git
+- rosdistro version: `0.2.0-0`
+- old version: `0.2.0-0`
+- new version: `0.2.1-0`
+
+Versions of tools used:
+- bloom version: `0.5.20`
+- catkin_pkg version: `0.2.8`
+- rosdep version: `0.11.2`
+- rosdistro version: `0.4.2`
+- vcstools version: `0.1.36`
+
+
 ## pcl_conversions (jade) - 0.2.0-1
 
 The packages in the `pcl_conversions` repository were released into the `jade` distro by running `/usr/bin/bloom-release pcl_conversions --track jade --rosdistro jade` on `Mon, 23 Mar 2015 14:49:15 -0000`
