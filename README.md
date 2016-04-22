@@ -1,3 +1,26 @@
+## pcl_conversions (kinetic) - 0.2.1-0
+
+The packages in the `pcl_conversions` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release -r kinetic -t kinetic pcl_conversions` on `Fri, 22 Apr 2016 14:50:59 -0000`
+
+The `pcl_conversions` package was released.
+
+Version of package(s) in repository `pcl_conversions`:
+
+- upstream repository: https://github.com/ros-perception/pcl_conversions.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.2.1-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.21`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.4`
+- rosdistro version: `0.4.7`
+- vcstools version: `0.1.38`
+
+
 ## pcl_conversions (indigo) - 0.2.1-0
 
 The packages in the `pcl_conversions` repository were released into the `indigo` distro by running `/usr/bin/bloom-release -r indigo -t indigo pcl_conversions` on `Mon, 08 Jun 2015 13:04:36 -0000`
